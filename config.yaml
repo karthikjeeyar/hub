@@ -46,7 +46,7 @@ catalogs:
     type: community
     provider: github
     url: https://github.com/karthikjeeyar/catalog
-    revision: main
+    revision: custom-catalog
     
 
 scopes:
